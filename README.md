@@ -14,8 +14,6 @@ Final projesi kapsamında 10 soruluk türk sineması bilgi yarışması hazırla
 ## Requirements
 ```
 Some python libraries
-Some python libraries
-Some python libraries
 ```
 ---
 
